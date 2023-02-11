@@ -3,7 +3,7 @@
 
 Java IDE to run the scripts
 
-Java(JDK) and Maven needs to installed on the local machine to run the scripts. 
+Java(JDK) and Maven need to be installed on the local machine to run the scripts. 
 
 ## Running the tests under Maven
 open terminal and run:
